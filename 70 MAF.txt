@@ -1,0 +1,15 @@
+Summary
+
+Files are not selected in File Manager when user click on the button "select all"
+
+Description
+
+Steps to reproduce:
+1. open the folder with content
+2. click on the button "select all"
+
+Actual result: files are not selected when user click on the button "select all"
+Expected result: when user click on the "select all" button, all files become marked "selected"
+
+Severity
+S3
