@@ -1,0 +1,15 @@
+Summary
+
+Not matching buttons names (New Folder and Delete) to their icons in File Manager
+
+Description
+
+On the toolbar the button with the folders icon is called "Delite" and the button with a cross icon is called "New Folder". Not undarstandable for user perception.
+
+Step to reproduce
+1. open the File Manager
+
+Actual result: the button with the folders icon is called "Delete", the button with the cross icon is called "New Folder"
+Expected result: the button with the folders icon is called "New Folder", the button with the cross icon is called "Delete"
+
+Severity S3
