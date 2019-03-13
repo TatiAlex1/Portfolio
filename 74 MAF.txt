@@ -1,0 +1,17 @@
+Summary
+
+"Rename" button created twice in File Manager
+
+Description
+
+On the toolbar there are two identical buttons "rename". Remove the duplicate button"Rename"(eight in the list)
+
+Step to reproduce
+1. open the File Manager
+
+Actual result: two buttons "rename"on the toolbar
+Expected result: one button "rename" on the toolbar
+
+Severity
+
+S4
